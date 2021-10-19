@@ -6,6 +6,7 @@ public class Customer {
 		// TODO Auto-generated method stub
 	    int salary;
 	    String name;
+	    String Country;
 
 	}
 
