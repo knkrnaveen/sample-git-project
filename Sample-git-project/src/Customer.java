@@ -8,6 +8,7 @@ public class Customer {
 	    String name;
 	    String Country;
 	    int age;
+	    String Gender;
 
 	}
 
