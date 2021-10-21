@@ -11,6 +11,7 @@ public class Customer {
 	    String Gender;
 	    String Level;
 	    //changed project name
+	    salary = 40000;
 
 	}
 
