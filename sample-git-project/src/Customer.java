@@ -12,7 +12,7 @@ public class Customer {
 	    String Level;
 	    //changed project name
 	    salary = 40000;
-	    //practicing pull 
+	    
 
 	}
 
