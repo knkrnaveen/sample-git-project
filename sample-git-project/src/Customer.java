@@ -10,7 +10,6 @@ public class Customer {
 	    int age;
 	    String Gender;
 	    String Level;
-	    //changed project name
 	    salary = 40000;
 	    
 
