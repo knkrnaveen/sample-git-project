@@ -7,7 +7,7 @@ public class Customer {
 	    int salary;
 	    String name;
 	    String Country;
-	    int age;
+	    double age;
 	    String Gender;
 	    String Level;
 	    salary = 40000;
